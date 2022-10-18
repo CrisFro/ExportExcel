@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "EoqQpX8LAvXPnwudZ7Z1fyphbSqXfd+FqnmjZ+7CqkGnZP9vY2nQGmOqbloQIxWAGs3Y6FQ4+4Kog8umGx2MXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cristiane\\Desktop\\Exercícios\\ExportExcel\\ExportExcel\\ExportExcel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cristiane\\.nuget\\packages\\closedxml\\0.96.0\\closedxml.0.96.0.nupkg.sha512",
+    "C:\\Users\\Cristiane\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
+    "C:\\Users\\Cristiane\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\Cristiane\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Cristiane\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Cristiane\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\Cristiane\\.nuget\\packages\\system.drawing.common\\4.5.0\\system.drawing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\Cristiane\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
